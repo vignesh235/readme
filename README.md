@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vignesh235" alt="vignesh235" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/vignesh63804723" target="blank"><img src="https://img.shields.io/twitter/follow/vignesh63804723?logo=twitter&style=for-the-badge" alt="vignesh63804723" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vignesh63804723" target="blank">
+<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" align="right" alt="vignesh63804723"  hight="450" width="500" /></a> </p>
 
 - 🔭 I’m currently working on **Thirvusoft**
 
