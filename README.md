@@ -38,3 +38,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vignesh235&show_icons=true&locale=en" alt="vignesh235" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vignesh235&" alt="vignesh235" /></p>
+<summary><b>⚡ Recent GitHub Activity</b></summary> 
+  <br/> 
+   <a href="https://github.com/vignesh235"><img alt="vignesh235 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vignesh235&custom_title=vignesh235's%20Contribution%20Graph&theme=react-dark" /></a> 
+  <br/>
