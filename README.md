@@ -39,7 +39,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vignesh235&" alt="vignesh235" /></p> 
   
-  <summary><b>⚡️ Recent GitHub Activity</b></summary> 
-  <br/> 
-   <a href="https://github.com/vignesh235"><img alt="vignesh235 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vignesh235&custom_title=barathpalanisamy's%20Contribution%20Graph&theme=react-dark" /></a> 
-  <br/>
+
