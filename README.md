@@ -18,8 +18,6 @@
 
 - 📫 How to reach me **vigneshmanimsc@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/ioU39](shorturl.at/ioU39)
-
 - ⚡ Fun fact **I love watching movies & creating new content**
 
 <h3 align="left">Connect with me:</h3>
