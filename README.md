@@ -34,6 +34,5 @@
 <br>
 <br>
 <br>
-[![Barath github activity graph](https://activity-graph.herokuapp.com/graph?username=vignesh235&theme=react-dark)](https://github.com/vignesh235/github-readme-activity-graph)
 
 
