@@ -19,6 +19,9 @@
 - 📫 How to reach me **vigneshmanimsc@gmail.com**
 
 - ⚡ Fun fact **I love watching movies & creating new content**
+### Spotify 🎧
+[<img src="https://spotify-now-playing-beta.vercel.app/api/spotify" alt="Vignesh Spotify Playing" width="400" />](https://open.spotify.com/user/in9ymw091apissjughuvu67o6)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,6 +29,7 @@
 <a href="https://twitter.com/vignesh63804723" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vignesh63804723" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/m-vignesh23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-vignesh23" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/vignesh-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vignesh-m" height="30" width="40" /></a>
+<a href="https://www.instagram.com/vee_keyy__/"><img align="left" alt="birjuvachhani | Instagram" width="40px" src="https://img.icons8.com/fluency/344/instagram-new.png" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
