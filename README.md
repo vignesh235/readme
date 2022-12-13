@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I love watching movies & creating new content**
 ### Spotify 🎧
-[<img src="https://spotify-now-playing-beta.vercel.app/api/spotify" alt="Vignesh Spotify Playing" width="400" />](https://open.spotify.com/user/in9ymw091apissjughuvu67o6)
+[<img src="https://spotify-now-playing-beta.vercel.app/api/spotify" alt="Vignesh Spotify Playing" width="400" />](https://open.spotify.com/user/31vsyir3kkvilfj5not7atr2b4ai)
 
 
 <h3 align="left">Connect with me:</h3>
