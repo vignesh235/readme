@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Thirvusoft**
 
-- 🌱 I’m currently learning **Flutter,ERP Next**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **other content creators**
 
